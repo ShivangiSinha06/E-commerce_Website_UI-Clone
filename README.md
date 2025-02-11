@@ -13,9 +13,3 @@ Interactive Elements – Styled buttons, hover effects, and visually engaging co
 
 HTML5 – For structuring the webpage.
 CSS3 – For styling and responsiveness (including flexbox, grid, and media queries).
-
-📌 Future Enhancements
-
-Add JavaScript functionality for dynamic interactions.
-Improve UI with animations and transitions.
-Integrate a backend for full e-commerce functionality.
